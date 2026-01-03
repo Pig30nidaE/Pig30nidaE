@@ -6,7 +6,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education & Certifications </h2> <br>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    <a href="https://www.credly.com/badges/47d5da40-f61b-40fc-8b4b-0a040c5b664e/public_url">
+    <a href="https://www.credly.com/badges/47d5da40-f61b-40fc-8b4b-0a040c5b664e/public_url" text-decoration-line="None">
         <img src="./42-cursus-junior-developer-level-10.png" alt="42seoul Junior Developer Level 10 Badge" width="30" style="vertical-align: middle; margin-right: 5px;">
     </a> 42Seoul Alumni   
     
