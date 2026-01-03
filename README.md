@@ -5,8 +5,12 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education & Certifications </h2> <br>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 42seoul Alumni. </div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47d5da40-f61b-40fc-8b4b-0a040c5b664e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div style="display: flex; align-items: center;">
+        <a href="https://www.credly.com/badges/47d5da40-f61b-40fc-8b4b-0a040c5b664e/public_url">
+          <img src="./42-cursus-junior-developer-level-10.png" alt="42seoul Junior Developer Level 10 Badge" width="25" style="margin-right: 10px;">
+        </a>
+        <span style="font-weight: 700; font-size: 15px; color: #282d33;"> 42seoul Alumni. </span>
+    </div>
 </div>
 
 <div style="text-align: left;">
