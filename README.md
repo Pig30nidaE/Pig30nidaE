@@ -8,10 +8,9 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     <a href="https://www.credly.com/badges/47d5da40-f61b-40fc-8b4b-0a040c5b664e/public_url">
         <img src="./42-cursus-junior-developer-level-10.png" alt="42seoul Junior Developer Level 10 Badge" width="30" style="vertical-align: middle; margin-right: 5px;">
-    </a>
-    42Seoul Alumni   
+    </a> 42Seoul Alumni   
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pig30nidae)](https://solved.ac/pig30nidae/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pig30nidae)](https://solved.ac/pig30nidae)
 
 </div>
 </div>
