@@ -1,10 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0f482d&height=120&text=Pig30nidaE🕊️&animation=&fontColor=ffffff&fontSize=50" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 잘 부탁드립니다. 🙇🏻 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 42seoul Alumni. <br></li>AJOU Univ. <br></li> </div> 
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
