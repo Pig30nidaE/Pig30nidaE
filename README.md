@@ -9,7 +9,10 @@
     <a href="https://www.credly.com/badges/47d5da40-f61b-40fc-8b4b-0a040c5b664e/public_url">
         <img src="./42-cursus-junior-developer-level-10.png" alt="42seoul Junior Developer Level 10 Badge" width="30" style="vertical-align: middle; margin-right: 5px;">
     </a>
-    42seoul Alumni.
+    42Seoul Alumni   
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pig30nidae)](https://solved.ac/pig30nidae/)
+
 </div>
 </div>
 
@@ -39,3 +42,5 @@
     <div style="text-align: left;"> <a href=mailto:pig30nidae@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pig30nidae@gmail.com"> </a>
           </div>
 </div>
+
+
